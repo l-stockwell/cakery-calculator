@@ -1,4 +1,11 @@
 ## Introduction
+A simple web app for BonBon Cakery players to calculate recipe outcomes and optimize their creations without spending excessive amounts of creation points. 
+It uses data from the Kairosoft Wiki to help predict ratings and results based on ingredient combos.
+
+Note: Modifiers are based on predictions since the algorithm for Texture Up isn't publicly known. My best estimate is that Texture increases by 1 point for each additional ingredient.
+
+![image](https://github.com/user-attachments/assets/b27ed595-80da-41be-b9d7-5d9d2580c616)
+
 
 ## Getting Started
 
