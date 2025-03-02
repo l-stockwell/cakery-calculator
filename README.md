@@ -39,14 +39,6 @@ Before you begin, ensure you have met the following requirements:
 
    This command will start the development server, and the app will open in your default web browser.
 
-### Testing
-
-1. Run the unit test suite:
-
-   ```shell
-   yarn test
-   ```
-
 ## Features
 
 - Simple user-friendly interface
