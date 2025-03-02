@@ -1,7 +1,4 @@
-
 ## Introduction
-
-This simple term deposit calculator is a web application developed using Next.js, React.js and Mantine.
 
 ## Getting Started
 
@@ -15,20 +12,19 @@ Before you begin, ensure you have met the following requirements:
 
 ### Installation
 
-
 1. Clone the project:
 
    ```shell
-   git clone https://github.com/lenacs/term-deposit-calculator.git
+   git clone https://github.com/l-stockwell/term-deposit-calculator.git
    ```
-   
+
 1. Install the dependencies:
 
    ```shell
    yarn install
    ```
-2. Start the application:
 
+1. Start the application:
 
    ```shell
    yarn start
@@ -40,23 +36,13 @@ Before you begin, ensure you have met the following requirements:
 
 1. Run the unit test suite:
 
-
    ```shell
    yarn test
    ```
-   
+
 ## Features
 
 - Simple user-friendly interface
 - Clear buttons for easy input correction
 - Real-time calculation display
-- Adapts to different screen sizes 
-
-
-## To-Dos
-
-- Improved front-end validation
-- Combine years/months into a single input
-- Calculate and display interest earned in total and per pay period i.e. monthly
-- More intuitive front-end, i.e. informative tooltips describing each step
-- Implement charts/tables showing deposit growth over time
+- Adapts to different screen sizes

@@ -1,11 +1,15 @@
 import "@mantine/core/styles.css";
+import "./styles/global.css";
 import React from "react";
 import { MantineProvider, ColorSchemeScript } from "@mantine/core";
 import { theme } from "../theme";
 
 export const metadata = {
-  title: "Term Deposit Calculator",
-  description: "A simple calculator for term deposits",
+  title: "Sweet Creation Calculator",
+  description: "A calculator for BonBon Cakery by Kairosoft",
+  icons: {
+    icon: '/favicon.ico',
+  },
 };
 
 export default function RootLayout({ children }: { children: any }) {

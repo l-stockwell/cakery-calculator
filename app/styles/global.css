@@ -1,0 +1,51 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Bomb+One&display=swap');
+
+body {
+    background-color: #ffccdd !important;
+    color: #333;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1, h2 {
+    font-family: 'Cherry Bomb One', sans-serif !important;
+    color: var(--mantine-color-pink-filled);
+}
+
+h1 {
+    margin-bottom: 1em !important;
+    text-align: center;
+}
+
+h2 {
+    font-size: 2em;
+}
+
+
+h3 {
+    font-size: 1.25em !important;
+    color: var(--mantine-color-pink-filled);
+}
+
+
+label {
+    color: rgb(248, 114, 163);
+}
+
+.warning {
+    color: rgb(255, 48, 48) !important;
+    font-weight: 500 !important;
+}
+
+.mantine-Grid-root {
+    background-color: white;
+    border-radius: 30px;
+}
+
+.app-grid {
+    padding: 2em;
+}
+.app-page-container {
+    padding: 2em;
+}

@@ -1,10 +1,10 @@
-import AppPage from "./components/AppPage";
+import AppPage from "./layout/AppPage";
 import Calculator from "./components/Calculator";
 
 export default function HomePage() {
   return (
-  <AppPage title="Deposit & Savings Calculator">
-    <Calculator />
-  </AppPage>
-  )
+    <AppPage title="Sweet Creation Calculator">
+      <Calculator />
+    </AppPage>
+  );
 }
